@@ -2,8 +2,10 @@
 [Moinak Bhattacharya](https://sites.google.com/view/moinakb), [Shubham Jain](https://www3.cs.stonybrook.edu/~jain/), [Prateek Prasanna](https://prateekprasanna.com/)
 
 25th International Conference on Medical Image Computing and Computer Assisted Intervention ([MICCAI 2022](https://conferences.miccai.org/2022/en/)).
+
 #
-![gazeradar](https://user-images.githubusercontent.com/51439156/176203605-95f8b507-6d41-4d0c-851d-37dc753e06c2.jpg)
+![gazeradar](https://user-images.githubusercontent.com/51439156/176207893-bfb4941b-4d9b-4a09-98f3-a931f31ca7ef.png)
+
 ## To do
 Add code
 ## Citation
