@@ -7,7 +7,8 @@
 ![gazeradar](https://user-images.githubusercontent.com/51439156/176207893-bfb4941b-4d9b-4a09-98f3-a931f31ca7ef.png)
 
 ## To do
-Add code
+- gazeradar.py added
+- full pipeline to be added
 ## Citation
 If you find this repository useful, please consider giving a star :star: and cite the following
 ```
